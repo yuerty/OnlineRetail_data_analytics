@@ -1,2 +1,2 @@
 # OnlineRetail_data_analytics
-在chatgpt帮助下，对OnlineRetail数据集进行的简单数据分析，重点是SQL查询语言的运用。
+在chatgpt帮助下，对OnlineRetail数据集进行的简单数据分析，重点是SQL查询语句的运用。
